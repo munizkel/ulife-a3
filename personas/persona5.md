@@ -1,7 +1,8 @@
 # Nome: João Paulo da Silva
 <img src="persona5.jpeg" width="100px;" alt=" J P Silva "/>
 
->Toda vez que você pensar em desistir lembre-se: E se Martin Luther King desistisse? E se Malcolm X desistisse? E se John F. Kennedy desistisse? (Julius Rock)
+>"Duas coisas são infinitas: o universo e a estupidez humana. Mas, em relação ao universo, ainda não tenho certeza absoluta".
+>-Albert Einstein
 
 ### Idade: 45 anos
 ### Sexo: Masculino

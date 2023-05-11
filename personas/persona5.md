@@ -116,9 +116,9 @@ Possui smartphone de ultima geração, onde seu filho recomendou porém tem Joã
 </table>
 
 ## Marcas & Influência
-<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ZbNeX184s7isRCTePcjqGaU_WN2z4itvkiJGybw5iMSXEdNVTZHAFwGl_1Ql_VehF8g&usqp=CAU' width= '100px' alt='makita'>
+<img src='(https://images.app.goo.gl/AuKQhfxfGtZDkfZS9)' width= '100px' alt='reserva'>
 
-<img src='[https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/2560px-Bosch-logo.svg.png](https://images.app.goo.gl/XfjZyi8huYQirQiN9)' width= '100px' alt='bosh'>
+<img src='(https://images.app.goo.gl/AuKQhfxfGtZDkfZS9)' width= '100px' alt='bosh'>
 
 ## Canais preferidos
 <table>

@@ -1,5 +1,5 @@
 # Nome: João Paulo da Silva
-<img src="![persona5](https://github.com/ramondomiingos/ulife-a3/assets/71854839/8bcfec18-ff86-4d7d-b3e7-e633083d7677)" width="100px;" alt=" J P Silva "/>
+<img src="persona5.jpeg" width="100px;" alt=" J P Silva "/>
 
 >"Duas coisas são infinitas: o universo e a estupidez humana. Mas, em relação ao universo, ainda não tenho certeza absoluta".
 >-Albert Einstein

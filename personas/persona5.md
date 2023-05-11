@@ -116,7 +116,7 @@ Possui smartphone de ultima geração, onde seu filho recomendou porém tem Joã
 </table>
 
 ## Marcas & Influência
-<img src='![reserva](https://github.com/ramondomiingos/ulife-a3/assets/71854839/0132e4c5-c554-4bb5-9125-11b847c4c1a9)' width= '100px' alt='reserva'>
+<img src='reserva.png' width= '100px' alt='reserva'>
 
 <img src='![fiat](https://github.com/ramondomiingos/ulife-a3/assets/71854839/0d7560ac-a625-48bf-b34f-15fc3aac2a6b)' width= '100px' alt='bosh'>
 

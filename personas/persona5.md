@@ -1,5 +1,5 @@
 # Nome: João Paulo da Silva
-<img src="personas/persona5.jpeg" width="100px;" alt=" J P Silva "/>
+<img src="![persona5](https://github.com/ramondomiingos/ulife-a3/assets/71854839/8bcfec18-ff86-4d7d-b3e7-e633083d7677)" width="100px;" alt=" J P Silva "/>
 
 >"Duas coisas são infinitas: o universo e a estupidez humana. Mas, em relação ao universo, ainda não tenho certeza absoluta".
 >-Albert Einstein
@@ -116,9 +116,9 @@ Possui smartphone de ultima geração, onde seu filho recomendou porém tem Joã
 </table>
 
 ## Marcas & Influência
-<img src='(https://images.app.goo.gl/AuKQhfxfGtZDkfZS9)' width= '100px' alt='reserva'>
+<img src='![reserva](https://github.com/ramondomiingos/ulife-a3/assets/71854839/0132e4c5-c554-4bb5-9125-11b847c4c1a9)' width= '100px' alt='reserva'>
 
-<img src='(https://images.app.goo.gl/AuKQhfxfGtZDkfZS9)' width= '100px' alt='bosh'>
+<img src='![fiat](https://github.com/ramondomiingos/ulife-a3/assets/71854839/0d7560ac-a625-48bf-b34f-15fc3aac2a6b)' width= '100px' alt='bosh'>
 
 ## Canais preferidos
 <table>
